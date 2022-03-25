@@ -1,0 +1,48 @@
+Diagrama de caso de uso-- https://docplayer.com.br/29214642-Uma-proposta-de-modelagem-conceitual-para-agricultura-de-precisao-aplicada-ao-projeto-agromobile.html
+
+formulario em html -- https://www.devmedia.com.br/como-criar-formularios-html-sem-usar-tabelas-tableless/28278
+
+Criando métodos get e set -- https://www.devmedia.com.br/criando-metodos-get-e-set-em-java/24623
+
+Encapsulamento, Polimorfismo, Herança -- https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991
+
+Conceitos da linguagem Java -- https://www.devmedia.com.br/conceitos-da-linguagem-java/5341
+
+Curso de Java - Métodos Get e Set getters e setters -- https://www.youtube.com/watch?v=_sViKKn_Wn8&list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc&index=21
+
+Curso POO Java Polimorfismo em Java -- https://www.youtube.com/watch?v=NctjqlfKC0U
+
+Criando métodos get e set -- https://www.devmedia.com.br/criando-metodos-get-e-set-em-java/24623
+
+Encapsulamento, Polimorfismo, Herança em Java -- https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991
+
+Como criar formulários HTML sem usar tabelas -- https://www.devmedia.com.br/como-criar-formularios-html-sem-usar-tabelas-tableless/28278
+
+Formulário HTML: criando forms HTML e enviando dados -- https://www.homehost.com.br/blog/tutoriais/formulario-html/
+
+Diminuir caixa de texto -- https://forum.scriptbrasil.com.br/topic/184731-diminuir-caixa-de-texto/
+
+CENTRALIZANDO COISAS -- https://www.w3.org/Style/Examples/007/center.pt_BR.html
+
+Já é possível monitorar a saúde das vacas pelo celular -- https://www.girodoboi.com.br/destaques/ja-e-possivel-monitorar-a-saude-das-vacas-pelo-celular-saiba-como/
+
+Elementos de formulário HTML -- https://www.homehost.com.br/blog/tutoriais/formulario-html/#top4
+
+HTML: Linguagem de Marcação de Hipertexto -- https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input
+
+<input type="password"> -- https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Input/password
+
+CSS Tutorial -- https://www.w3schools.com/css/
+
+Cláusulas INNER JOIN, LEFT JOIN e RIGHT JOIN no SQL Server -- https://www.devmedia.com.br/clausulas-inner-join-left-join-e-right-join-no-sql-server/18930
+
+INNER, CROSS, LEFT, RIGTH E FULL JOINS -- https://www.devmedia.com.br/inner-cross-left-rigth-e-full-joins/21016
+
+SQL Select: Guia para Iniciantes -- https://www.devmedia.com.br/sql-select-guia-para-iniciantes/29530
+
+SExta feira, 9 de outubro de 2020
+
+
+
+
+

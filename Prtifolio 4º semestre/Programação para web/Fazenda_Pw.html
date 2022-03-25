@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sitema Web</title>
+    <link rel="stylesheet" href="estilo1.0.css">
+</head>
+<body>
+    <form name="webForm" method="POST" id="formulario">
+
+        <div class="usuario">
+
+            <h1>Monitoramento Da Produção Leiteira</h1>
+
+            <label>
+                <span>Nome:</span>
+                <input type="text" class="input_usuario" name="nome" id="name" required>
+            </label> 
+
+            <label>
+                <span>Senha:</span>
+                <input type="password" class="input_usuario" name="senha" id="password" required>
+            </label>
+
+        </div>
+        
+        <div class="animal">
+            <table>
+
+                <label>
+                    <tr><td><span>Codigo do animal:</span>
+                    <input type="text" class="input_codigo" name="codigo" id="codigo" required>
+                </label></td></tr>
+
+                <label class="ordenha">
+                    <tr><td><span>Ordenha realizada</span><br>
+                    <span>Sim</span>    
+                    <input type="checkbox" class="input_ordenha" name="ordenha" id="ordenha">
+                    <span>Não</span>
+                    <input type="checkbox" class="input_ordenha" name="ordenha" id="ordenha">
+                </label></td></tr>  
+
+                <label>
+                    <tr><td><span>Litros por dia:</span>
+                    <input type="text" class="input_litrosLeite" name="litrosLeite" id="litrosLeite"><span>L</span>
+                </label></td></tr>
+
+                <label>
+                    <tr><td><span>Horario de ordenha:</span>
+                    <input type="time" class="input_horario" name="horario" id="horario">
+                </label></td></tr>
+
+            </table>
+
+        </div>
+
+        <div class="saude">
+
+            <table>
+
+                <tr><td><label>
+                    <span>Sintomas do animal:</span>
+                    <textarea class="textarea_sintomas" name="sintomas" id="sintomas"></textarea>                    
+                </label></td>
+           
+                <td><label>
+                    <span>Peso:</span>
+                    <input type="text" class="input_peso" name="peso" id="peso">K
+                </label></td></tr> 
+
+                <tr><td><label>
+                    <span>Tratamento:</span>
+                    <textarea class="textarea_tratamento" name="tratamento" id="tratamento"></textarea>                                      
+                </label></td>
+
+                <td><label>
+                    <span>Tempo de tratamento:</span>
+                    <input type="date" class="input_tempo" name="tempo" id="tempo"></textarea>                     
+                </label></td></tr>
+
+                <div class="final">
+                    <caption><label>
+                        <input type="button" class="button_enviar" value="Enviar">
+                    </label></caption>
+                </div>
+
+            </table>
+
+        </div>       
+        
+    </form>
+</body>
+</html>

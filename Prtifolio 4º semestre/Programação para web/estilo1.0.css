@@ -1,0 +1,159 @@
+*{margin: 0; padding: 0; border: 0; }
+
+body{
+    font:100% Arial;
+    background-color: cornflowerblue;
+}
+
+form,input,select,textarea{
+    margin:0; 
+    padding:0;
+}
+
+div.usuario{
+    margin: 0 auto;
+    width: 100%;
+    background:  rgb(44, 84, 136);
+    position: relative;
+    top: 50px;
+    border: 1px, solid, blue;
+    text-align: center;
+}
+
+div.usuario h1 {
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 5px 0 5px 5px;
+    text-align: center;
+    border-top: 1px, solid #262626;
+    border-bottom: 1px, solid, #161712;
+}
+
+div.usuario label {
+    width: 100%;
+    display: block;
+    padding: 10px 0 10px 0;
+    background:rgb(44, 84, 136);
+    border-top: 1px solid #262626;
+    border-bottom: 1px solid #161712;
+}
+
+div.usuario label span {    
+    font-size: 15px;
+    right: 300px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 5px 20px 0px;
+}
+
+div.usuario .input_usuario {
+    padding: 10px 10px;
+    width: 200px;
+    background: rgb(24, 119, 163);
+    border-bottom: 1px double #171717;
+    border-top: 1px double #171717;
+    border-left: 1px double #333333;
+    border-right: 1px double #333333;
+}
+
+
+
+
+
+
+div.animal label {
+    width:100%;
+    display: block;
+    padding:10px 0 10px 0;
+}
+
+div.animal input.input_litrosLeite{
+    width: 30px;
+    text-align: center;
+}
+
+div.animal{
+    margin: 0 auto;
+    width: 100%;
+    background: rgb(44, 84, 136);
+    position: relative;
+    top: 50px;
+    border: 1px, solid, blue;
+    text-align: center;
+    margin-left: 100px;
+    display: block;
+}
+
+
+div.saude{
+    
+    width: 80%;
+    position:relative;
+    top:50px;
+    text-align: center;
+}
+
+div.saude label {
+    width:100%;
+    display: block;
+    padding:10px 0 10px 0;
+}
+
+div.saude input.input_peso{
+    width: 34px;
+    text-align: center;
+}
+
+div.saude textarea{
+    padding: 5px 5px;
+    width: 200px;
+    height: 100px;
+    background: rgb(24, 119, 163);
+    border-bottom: 1px double #171717;
+    border-top: 1px double #171717;
+    border-left:1px double #333333;
+    border-right:1px double #333333;
+    overflow:hidden;
+}
+
+
+input.button_enviar {
+    margin:0 0 10px 0;
+    padding:4px 7px;
+    background:rgb(24, 119, 163);
+    border:0px;
+    position: relative;
+    top:10px;
+    left:50px;
+    width:100px;
+    border-bottom: 1px double  #171717;
+    border-top: 1px double #171717;
+    border-left:1px double #333333;
+    border-right:1px double#333333;
+}
+
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+    vertical-align: middle;
+    float: right;
+    margin-right: 100px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(44, 84, 136);
+}
+
+table caption{
+    caption-side: bottom;
+    text-align: left;
+}
+span{
+    vertical-align: top;
+}
+

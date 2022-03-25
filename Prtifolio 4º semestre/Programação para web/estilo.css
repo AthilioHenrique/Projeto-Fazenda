@@ -1,0 +1,100 @@
+*{ margin: 0; padding: 0;}
+
+body{ font: 100% normal Arial, Helvetica, sans-serif; background: cornflowerblue;}
+
+form,input,select,textarea{margin:0; padding:0;}
+
+div.sistema {
+    margin: 0 auto;
+    width: 500px;
+    background: rgb(24, 119, 163);
+    position: relative;
+    top: 50px;
+    border: 1px solid #262626;
+}
+
+div.sistema h1 {
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 5px 0 5px 5px;
+    border-bottom: 1px solid #161712;
+    border-top: 1px solid #161712;
+    text-align: center;
+}
+
+div.sistema label {
+    width: 100%;
+    display: block;
+    background: rgb(24, 119, 163);
+    border-top: 1px solid #262626;
+    border-bottom: 1px solid #161712;
+    padding: 10px 0 10px 0;
+}
+
+div.sistema label span {
+    display: block;
+    font-size: 12px;
+    float: left;
+    width: 100px;
+    text-align: right;
+    padding: 5px 20px 0 0;
+}
+
+div.sistema .input_text {
+    padding: 10px 10px;
+    width: 200px;
+    background: cornflowerblue;
+    border-bottom: 1px double #171717;
+    border-top: 1px double #171717;
+    border-left: 1px double #333333;
+    border-right: 1px double #333333;
+}
+
+div.sistema .textarea_text{
+    padding: 7px 7px;
+    width: 350px;
+    background: cornflowerblue;
+    border-bottom: 1px double #171717;
+    border-top: 1px double #171717;
+    border-left: 1px double #333333;
+    border-right: 1px double #333333;
+    overflow: hidden;
+    height: 150px;
+}
+
+div.sistema .input_peso{
+    width: 34px;
+    text-align: center;
+    background: cornflowerblue;
+    overflow: hidden;
+}
+
+div.sistema .input_tempo{
+    background: cornflowerblue;
+    overflow: hidden;
+}
+
+div.sistema .input_horario{
+    background: cornflowerblue;
+    overflow: hidden;
+}
+
+div.sistema .input_litrosLeite{
+    width: 30px;
+    text-align: center;
+}
+
+div.sistema .button{
+    margin: 0 0 10px 0;
+    padding: 4px 7px;
+    background: #CC0000;
+    border: 0px;
+    position: relative;
+    top: 10px;
+    left: 382px;
+    width: 100px;
+    border-bottom: 1px double #660000;
+    border-top: 1px double #660000;
+    border-left: 1px double #FF0033;
+    border-right: 1px double #FF0033;
+}

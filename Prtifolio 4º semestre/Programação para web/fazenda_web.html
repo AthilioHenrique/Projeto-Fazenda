@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+    <title>Sitema Web</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <form name="webForm" method="post" id="formulario">
+	    <div class="sistema">
+		    <h1>Monitoramento Da Produção Leiteira</h1>
+
+		    <label>
+			    <span>Nome:</span>
+ 			    <input type="text" class="input_text" name="nome" id="name" required>
+            </label>
+            
+            <label>
+                <span>Senha:</span>
+                <input type="password" class="input_text" name="senha" id="password" required>
+            </label>
+
+		    <label>
+                <span>Codigo do animal:</span>
+                <input type="text" class="input_text" name="codigo" id="codigo" required>
+            </label>
+
+		    <label class="ordenha">
+                <span>Ordenha realizada</span>           
+                <span>Sim <input type="checkbox" class="input_ordenha" name="ordenha" id="ordenha"></span>
+                <span>Não</span> <input type="checkbox" class="input_ordenha" name="ordenha" id="ordenha">
+            </label>
+
+            <label>
+                <span>Litros por dia:</span>
+                <input type="text" class="input_text" name="litrosLeite" id="litrosLeite">                
+            </label>
+
+            <label>
+                <span>Horario de ordenha:</span>
+                <input type="time" class="input_horario" name="horario" id="horario">
+            </label>
+
+            <label>
+                <span>Sintomas do animal:</span>
+                <textarea class="textarea_text" name="sintomas" id="sintomas"></textarea> 
+            </label>
+
+            <label>
+                <span>Peso:</span>
+                <input type="text" class="input_peso" name="peso" id="peso">K
+            </label>
+
+            <label>
+                <span>Tratamento:</span>
+                <textarea class="textarea_text" name="tratamento" id="tratamento"></textarea>
+            </label>
+
+            <label>
+                <span>Tempo de tratamento:</span>
+                <input type="date" class="  " name="tempo" id="tempo"></textarea>
+            </label>
+
+			    <input type="button" class="button" value="Enviar" >
+		    </label>
+	    </div>
+    </form>
+    <br>
+    <br>
+    <br>
+    <br>
+</body>
+</html>
